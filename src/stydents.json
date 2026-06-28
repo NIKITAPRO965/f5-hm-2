@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Іван Петренко",
+    "age": 28,
+    "city": "Київ",
+    "email": "ivan.petrenko@example.com",
+    "isOnline": true,
+    "salary": 42000,
+    "skills": ["JavaScript", "React", "HTML", "CSS"]
+  },
+  {
+    "id": 2,
+    "name": "Олена Коваль",
+    "age": 32,
+    "city": "Львів",
+    "email": "olena.koval@example.com",
+    "isOnline": false,
+    "salary": 51000,
+    "skills": ["Python", "Django", "PostgreSQL"]
+  },
+  {
+    "id": 3,
+    "name": "Максим Бондар",
+    "age": 25,
+    "city": "Одеса",
+    "email": "maksym.bondar@example.com",
+    "isOnline": true,
+    "salary": 38000,
+    "skills": ["Java", "Spring", "MySQL"]
+  },
+  {
+    "id": 4,
+    "name": "Анна Шевченко",
+    "age": 30,
+    "city": "Дніпро",
+    "email": "anna.shevchenko@example.com",
+    "isOnline": true,
+    "salary": 56000,
+    "skills": ["UI/UX", "Figma", "Adobe XD"]
+  },
+  {
+    "id": 5,
+    "name": "Дмитро Мельник",
+    "age": 35,
+    "city": "Харків",
+    "email": "dmytro.melnyk@example.com",
+    "isOnline": false,
+    "salary": 61000,
+    "skills": ["Node.js", "Express", "MongoDB"]
+  },
+  {
+    "id": 6,
+    "name": "Наталія Лисенко",
+    "age": 27,
+    "city": "Чернігів",
+    "email": "nataliia.lysenko@example.com",
+    "isOnline": true,
+    "salary": 47000,
+    "skills": ["Vue", "Nuxt", "TypeScript"]
+  },
+  {
+    "id": 7,
+    "name": "Андрій Ткаченко",
+    "age": 29,
+    "city": "Запоріжжя",
+    "email": "andrii.tkachenko@example.com",
+    "isOnline": false,
+    "salary": 45000,
+    "skills": ["PHP", "Laravel", "Redis"]
+  },
+  {
+    "id": 8,
+    "name": "Марія Гончар",
+    "age": 26,
+    "city": "Тернопіль",
+    "email": "maria.honchar@example.com",
+    "isOnline": true,
+    "salary": 39000,
+    "skills": ["C#", ".NET", "Azure"]
+  },
+  {
+    "id": 9,
+    "name": "Сергій Поліщук",
+    "age": 34,
+    "city": "Вінниця",
+    "email": "serhii.polishchuk@example.com",
+    "isOnline": false,
+    "salary": 67000,
+    "skills": ["DevOps", "Docker", "Kubernetes"]
+  },
+  {
+    "id": 10,
+    "name": "Юлія Савченко",
+    "age": 24,
+    "city": "Івано-Франківськ",
+    "email": "yuliia.savchenko@example.com",
+    "isOnline": true,
+    "salary": 36000,
+    "skills": ["QA", "Cypress", "Playwright"]
+  }
+]

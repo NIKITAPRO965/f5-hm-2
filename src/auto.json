@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "color": "White",
+    "engine": {
+      "type": "Hybrid",
+      "volume": 2.5,
+      "power": 218
+    },
+    "transmission": "Automatic",
+    "fuel": "Petrol/Hybrid",
+    "mileage": 18500,
+    "price": 31500,
+    "isAvailable": true,
+    "features": [
+      "Adaptive Cruise Control",
+      "Lane Assist",
+      "Apple CarPlay",
+      "Heated Seats"
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "color": "Black",
+    "engine": {
+      "type": "Diesel",
+      "volume": 3.0,
+      "power": 286
+    },
+    "transmission": "Automatic",
+    "fuel": "Diesel",
+    "mileage": 42000,
+    "price": 58900,
+    "isAvailable": false,
+    "features": [
+      "Panoramic Roof",
+      "Leather Interior",
+      "360 Camera",
+      "Parking Assistant"
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Audi",
+    "model": "A6",
+    "year": 2023,
+    "color": "Gray",
+    "engine": {
+      "type": "Petrol",
+      "volume": 2.0,
+      "power": 245
+    },
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "mileage": 9800,
+    "price": 52400,
+    "isAvailable": true,
+    "features": [
+      "Virtual Cockpit",
+      "LED Matrix Headlights",
+      "Wireless Charging",
+      "Navigation"
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "color": "Red",
+    "engine": {
+      "type": "Electric",
+      "volume": 0,
+      "power": 325
+    },
+    "transmission": "Single Speed",
+    "fuel": "Electric",
+    "mileage": 3200,
+    "price": 46990,
+    "isAvailable": true,
+    "features": [
+      "Autopilot",
+      "Glass Roof",
+      "OTA Updates",
+      "Premium Audio"
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2020,
+    "color": "Blue",
+    "engine": {
+      "type": "Petrol",
+      "volume": 1.5,
+      "power": 150
+    },
+    "transmission": "Manual",
+    "fuel": "Petrol",
+    "mileage": 63500,
+    "price": 16900,
+    "isAvailable": false,
+    "features": [
+      "Rear Camera",
+      "Bluetooth",
+      "Climate Control",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": 6,
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2022,
+    "color": "Silver",
+    "engine": {
+      "type": "Diesel",
+      "volume": 2.0,
+      "power": 194
+    },
+    "transmission": "Automatic",
+    "fuel": "Diesel",
+    "mileage": 27500,
+    "price": 54800,
+    "isAvailable": true,
+    "features": [
+      "Ambient Lighting",
+      "Blind Spot Monitor",
+      "Keyless Entry",
+      "Leather Seats"
+    ]
+  },
+  {
+    "id": 7,
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": 2021,
+    "color": "Green",
+    "engine": {
+      "type": "Petrol",
+      "volume": 1.4,
+      "power": 150
+    },
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "mileage": 38100,
+    "price": 22900,
+    "isAvailable": true,
+    "features": [
+      "Digital Dashboard",
+      "Parking Sensors",
+      "Android Auto",
+      "Heated Steering Wheel"
+    ]
+  },
+  {
+    "id": 8,
+    "brand": "Volvo",
+    "model": "XC60",
+    "year": 2023,
+    "color": "Dark Blue",
+    "engine": {
+      "type": "Hybrid",
+      "volume": 2.0,
+      "power": 350
+    },
+    "transmission": "Automatic",
+    "fuel": "Hybrid",
+    "mileage": 12400,
+    "price": 62900,
+    "isAvailable": false,
+    "features": [
+      "Pilot Assist",
+      "360 Camera",
+      "Air Suspension",
+      "Premium Sound"
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "color": "White",
+    "engine": {
+      "type": "Petrol",
+      "volume": 2.0,
+      "power": 158
+    },
+    "transmission": "CVT",
+    "fuel": "Petrol",
+    "mileage": 21300,
+    "price": 24800,
+    "isAvailable": true,
+    "features": [
+      "Lane Keeping Assist",
+      "Adaptive Cruise Control",
+      "Blind Spot Monitor",
+      "Sunroof"
+    ]
+  },
+  {
+    "id": 10,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "year": 2021,
+    "color": "White",
+    "engine": {
+      "type": "Diesel",
+      "volume": 2.0,
+      "power": 150
+    },
+    "transmission": "Automatic",
+    "fuel": "Diesel",
+    "mileage": 46700,
+    "price": 24900,
+    "isAvailable": true,
+    "features": [
+      "Navigation",
+      "Dual Zone Climate Control",
+      "Front and Rear Parking Sensors",
+      "Heated Front Seats"
+    ]
+  }
+]
