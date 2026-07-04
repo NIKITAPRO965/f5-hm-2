@@ -1,11 +1,5 @@
+function Title ({text}) {
+    return <h1>{text}</h1>
+}
 
-
-
-
-// function Title ({text}) {
-    
-//     return <h2>{text}</h2>
-// }
-
-
-// export default Title
+export default Title
