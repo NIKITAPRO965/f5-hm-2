@@ -1,5 +1,5 @@
-export default function Button ({onQwe}) {
-    return <button onClick={onQwe} type="button">click</button>
+export default function Button ({onClick}) {
+    return <button onClick={onClick} type="button">click</button>
 }
 
 

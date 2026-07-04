@@ -2,10 +2,10 @@
 
 
 
-function Title ({text}) {
+// function Title ({text}) {
     
-    return <h2>{text}</h2>
-}
+//     return <h2>{text}</h2>
+// }
 
 
-export default Title
+// export default Title

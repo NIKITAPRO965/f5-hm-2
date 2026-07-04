@@ -1,11 +1,13 @@
 
-import Title from './components/Title/Title'
-import Section from './components/Section/Section'
-import List from './components/List/List'
+// import Title from './components/Title/Title'
+// import Section from './components/Section/Section'
+// import List from './components/List/List'
+import Greeting from './components/Greeting/Greeting'
+import Message from './components/Message/Message'
 import Button from './components/Button/Button'
 import './App.css'
 // import futbol from './futboll.json'
-import stydents from "./stydents.json"
+// import stydents from "./stydents.json"
 // import auto from "./auto.json"
 
 
@@ -189,7 +191,7 @@ import stydents from "./stydents.json"
 function App() {
 
   const handleHello = () => {
-    console.log("hellow world");
+    console.log("world");
     
   }
 
@@ -197,12 +199,14 @@ function App() {
 
   return (
     <>
-    <Section>
+    {/* <Section>
       <Title text="stydents:"/>
       <List data={stydents}/>
       
-    </Section>
-    <Button onQwe={handleHello}/>
+    </Section> */}
+    <Greeting text="Nikita"/>
+    <Message text="hellow"/>
+    <Button onClick={handleHello}/>
 
 
     {/* <Section>
